@@ -1,3 +1,5 @@
 1. git init
 2. git branch
 3. git switch
+4. git merge (from master)
+5. git log
